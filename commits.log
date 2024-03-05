@@ -1,0 +1,98 @@
+commit 4a310218e63d3ddbb0868344aa8643e8825a6e0d
+Author: criZorr <crizorr25@gmail.com>
+Date:   Mon Mar 4 17:59:17 2024 -0500
+
+    Agregando dos párrafos
+
+commit c8926e717ee07e293fd23df0431c5fd45ec3d58b
+Merge: 82d5f7f 128e695
+Author: criZorr <crizorr25@gmail.com>
+Date:   Mon Mar 4 17:57:03 2024 -0500
+
+    Resolviendo conflicto en estaciones del año y mes de inicio
+
+commit 82d5f7fecdc7c18a87f166e67b94303d9cd00738
+Author: criZorr <crizorr25@gmail.com>
+Date:   Mon Mar 4 17:25:04 2024 -0500
+
+    Agregando estaciones del año con mes de inicio
+
+commit 128e695c1b2d985a3de72ce8ebf006d2b75944a1
+Author: criZorr <crizorr25@gmail.com>
+Date:   Mon Mar 4 17:25:04 2024 -0500
+
+    agregando estaciones del año
+
+commit e954482d78d15cbd2468d4cfe1d31ee3216cac96
+Merge: 3008844 00bac63
+Author: criZorr <crizorr25@gmail.com>
+Date:   Mon Mar 4 17:20:31 2024 -0500
+
+    resolviendo conflicto entre main y html en el documento index.html
+
+commit 00bac639899a5b8f2405aaeb88cc791e5f98cd99
+Author: criZorr <crizorr25@gmail.com>
+Date:   Mon Mar 4 17:14:51 2024 -0500
+
+    Agregando index.js al index.html
+
+commit 3008844275b2d83503074b536a006fb2ed756756
+Author: criZorr <crizorr25@gmail.com>
+Date:   Mon Mar 4 17:13:06 2024 -0500
+
+    Agregando style.css al index.html
+
+commit 44d70812dc20a3df51780a85d9f2aa9c74446fb9
+Merge: ae13df3 1a81809
+Author: criZorr <crizorr25@gmail.com>
+Date:   Thu Feb 29 17:37:49 2024 -0500
+
+    Merge branch 'js'
+
+commit 1a818095c1c655ada0afc6e5d69c2aa150ddfd0f
+Author: criZorr <crizorr25@gmail.com>
+Date:   Thu Feb 29 17:27:25 2024 -0500
+
+    creando index.js
+
+commit ae13df3c11efda98fac146d29930d1834ddb0f77
+Author: criZorr <crizorr25@gmail.com>
+Date:   Thu Feb 29 17:21:24 2024 -0500
+
+    creando style.css
+
+commit c31bd50db5201236aba7cc827b6340dccb556c69
+Author: criZorr <crizorr25@gmail.com>
+Date:   Thu Feb 29 17:16:28 2024 -0500
+
+    Creando index.html
+
+commit e92d6acbca1efb0b0e185c0ba99778b1a4f3b009
+Author: criZorr <crizorr25@gmail.com>
+Date:   Thu Feb 29 16:56:15 2024 -0500
+
+    ignorando archivos .exe
+
+commit 55ef54469743e6775d39d2caec653d94763e30b6
+Author: criZorr <83469977+criZorr@users.noreply.github.com>
+Date:   Thu Feb 29 15:41:18 2024 -0500
+
+    creando lisencia del repositorio
+
+commit 9bcd95d3dad73798a876d2930c5fb739feb0b7ca
+Author: criZorr <crizorr25@gmail.com>
+Date:   Thu Feb 29 15:35:53 2024 -0500
+
+    Creando un segundo commit
+
+commit 113bf8adc35a759172d1f65117f9ba665a8ed4a2
+Author: criZorr <crizorr25@gmail.com>
+Date:   Thu Feb 29 15:15:02 2024 -0500
+
+    Agregando contenido inicial al README
+
+commit 4f6521ddfebb3d13ab63725d29912df349be4cc5
+Author: criZorr <crizorr25@gmail.com>
+Date:   Thu Feb 29 15:09:23 2024 -0500
+
+    Primer commit de este curso
